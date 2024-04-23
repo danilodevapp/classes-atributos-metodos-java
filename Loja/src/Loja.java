@@ -15,6 +15,11 @@ public class Loja {
         System.out.println("Quantidade aumentada!");
         
         produto.AumentarQuantidade();
+        produto.AumentarQuantidade();
+        produto.AumentarQuantidade();
+        produto.AumentarQuantidade();
+        produto.AumentarQuantidade();
+
         System.out.println("A quantidade atualizada é: " + produto.Quantidade);
 
         System.out.println("");
