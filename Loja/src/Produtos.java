@@ -12,4 +12,12 @@ public class Produtos {
         return " -> Nome do Produto: " + nomedoproduto + " - Marca: " + marca + " - Quantidade: " + quantidade;
     }
 
+    public void AumentarQuantidade(){
+        Quantidade ++;
+    }
+
+    public void DiminuirQuantidade(){
+        Quantidade --;
+    }
+
 }
