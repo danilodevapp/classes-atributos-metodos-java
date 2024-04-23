@@ -1,4 +1,8 @@
 public class Loja {
+    
+    /** 
+     * @param args
+     */
     public static void main(String[] args) {
 
         Produtos produto = new Produtos();
